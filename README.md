@@ -6,6 +6,9 @@
 <h4 align="center">I am a Computer Science student pursuing B.Tech in VIT, Chennai. I like to Code, Build, Innovate and Experiment.</h4>
 <h2 id="-streak-stats">🔥 Streak Stats</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-arya&amp;theme=algolia" alt="srijan-arya"></p>
+<h2 id="-dsa">🔥 DSA Profile</h2>
+<p align="center">![image](https://github.com/user-attachments/assets/ea4c702a-318e-4c80-9eb6-d777d1e5b655)
+</p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="-programming-languages">👉 Programming languages</h3>
 <p align="left"> 
@@ -31,6 +34,7 @@
   </a>
 
 </p>
+
 <h3 id="-frontend-development">👉 Frontend Development</h3>
 <p align="left"> 
     
@@ -50,6 +54,7 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white">
   </a>
 </p>
+
 <h3 id="-backend-development">👉 Backend Development</h3>
 <p align="left"> 
    
@@ -65,48 +70,65 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white">
   </a>
 </p>
+
 <h3 id="-databases--cloud-hosting">👉 Databases &amp; Cloud Hosting</h3>
 <p align="left">
    
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&amp;llogo=mysql&amp;logoColor=white"></a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&amp;llogo=mysql&amp;logoColor=white">
+  </a>
    
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white"></a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white">
+  </a>
    
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&amp;llogo=github&amp;logoColor=white"></a>
+  <a href="https://www.github.com" target="_blank">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&amp;llogo=github&amp;logoColor=white">
+  </a>
    
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&amp;logoColor=white"></a>  
+  <a href="https://www.heroku.com/" target="_blank">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&amp;logoColor=white">
+  </a>  
    
-    <a href="https://vercel.com/" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&amp;logoColor=white"></a>
-
-  <a href="https://streamlit.io/" target="_blank"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%FF4B4B.svg?logo=streamlit&amp;logoColor=white"></a>  
-
-  <a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&amp;logoColor=white"></a>  
+  <a href="https://vercel.com/" target="_blank">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&amp;logoColor=white">
+  </a>
   
-<a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&amp;logoColor=white"></a>
- </p>
+  <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%FF4B4B.svg?logo=streamlit&amp;logoColor=white">
+  </a>  
+
+  <a href="https://www.netlify.com/" target="_blank">
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&amp;logoColor=white">
+  </a>  
+  
+  <a href="https://firebase.google.com/" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&amp;logoColor=white">
+  </a>
+</p>
 
 <h3 id="-software--tools">👉 Software &amp; Tools</h3>
-<p>
+<p align="left">
    
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&amp;logoColor=white"></a>
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
+  <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&amp;logoColor=white"></a>
+  <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black"></a>
    
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&amp;logoColor=white"></a>
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&amp;logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white"></a>
-   
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white"></a>
 </p>
+
 <br>
 <h2 id="-github-stats-expand-to-view">📊 Github Stats (Expand to View)</h2>
 <details> 
