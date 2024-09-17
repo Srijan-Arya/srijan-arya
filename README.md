@@ -2,11 +2,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1200&color=F7865D&center=true&width=435&lines=Computer+Science+Student;AI+ML+Enthusiast;Web+Development;Competitive+Coder+in+C%2B%2B" alt="Typing SVG" /></a>
 </p>
-<hr>
 <h4 align="center">I am a Computer Science student pursuing B.Tech in VIT, Chennai. I like to Code, Build, Innovate and Experiment.</h4>
-<h2 id="-streak-stats">🔥 Streak Stats</h2>
+<h2 id="-streak-stats" align="center">🔥 Streak Stats</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-arya&amp;theme=algolia" alt="srijan-arya"></p>
-<h2 id="-dsa">🔥 DSA Profile</h2>
+<h2 id="-dsa" align="center">🔥 DSA Profile</h2>
 <p align="center"><img src="https://i.imgur.com/5JOoUHW.png" alt="srijan-arya">
 </p>
 <h3 id="-programming-languages">👉 Programming Languages</h3>
@@ -68,7 +67,7 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white">
   </a> 
    
-  <a href="https://expressjs.com/" target="_blank"> 
+  <a href="https://expressjs.com" target="_blank"> 
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white">
   </a> 
    
@@ -169,7 +168,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br>
-   <a href="https://github.com/srijan-arya"><img alt="Srijan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srijan-arya&amp;custom_title=Candida%20Noronha's%20Contribution%20Graph&amp;theme=react-dark"></a>
+   <a href="https://github.com/srijan-arya"><img alt="Srijan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=srijan-arya&bg_color=1c1c1c&color=ffffff&line=f6a431&point=ffffff&area=true&hide_border=true"></a>
   <br>
 </details>
 <br>
