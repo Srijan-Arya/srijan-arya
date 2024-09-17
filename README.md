@@ -7,7 +7,7 @@
 <h2 id="-streak-stats">🔥 Streak Stats</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-arya&amp;theme=algolia" alt="srijan-arya"></p>
 <h2 id="-dsa">🔥 DSA Profile</h2>
-<p align="center"><img src="https://ibb.co/CPTxtjt" alt="srijan-arya">
+<p align="center"><img src="https://i.imgur.com/5JOoUHW.png" alt="srijan-arya">
 </p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="-programming-languages">👉 Programming languages</h3>
